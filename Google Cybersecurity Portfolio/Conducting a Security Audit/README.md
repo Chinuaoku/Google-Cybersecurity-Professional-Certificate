@@ -31,3 +31,6 @@ In the final stage of the audit, I was able to put together all my findings in a
 
 
 This project had a dual impact, not only elevating the security and compliance standards of Botium Toys but also enabling the growth of the IT department. Through its alignment with the NIST Cybersecurity Framework, a comprehensive risk assessment, and the delivery of practical recommendations for controls assessment and compliance, the project effectively showcased the importance of proactive cybersecurity practices in protecting vital assets, ensuring uninterrupted business operations, and facilitating worldwide expansion.
+
+
+**NOTE**: A comprehensive document detailing this task is fully attached above, showcasing my proficiency in risk assessment, cybersecurity auditing, compliance management, report writing, effective communication, and more. This work serves as a testament to my unwavering dedication to the cybersecurity domain.
