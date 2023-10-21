@@ -2,7 +2,7 @@
 
 In this Scenario, I was a cybersecurity analyst employed by a company specializing in IT consulting services. Multiple customers had reached out to the company, reporting their inability to access the company website, www.yummyrecipesforme.com. They encountered the error message "destination port unreachable" after an extended loading period.
 
-My assignment was to investigate the issue and identify which network protocol was impacted. My investigation commenced with a visit to the website, where I also encountered the "destination port unreachable" error message. Subsequently, I activated my network analysis tool, tcpdump, and reloaded the webpage. This time, I observed a significant influx of packets in my network analyzer.
+My assignment was to investigate the issue and identify which network protocol was impacted and what the like issue might be. My investigation commenced with a visit to the website, where I also encountered the "destination port unreachable" error message. Subsequently, I activated my network analysis tool, tcpdump, and reloaded the webpage. This time, I observed a significant influx of packets in my network analyzer.
 
 My analysis revealed that when I send UDP packets and receive an ICMP response back to the host, these responses contained an error message indicating "udp port 53 unreachable." I examined the DNS and ICMP log for the following;
 
