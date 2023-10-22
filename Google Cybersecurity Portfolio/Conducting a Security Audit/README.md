@@ -9,7 +9,7 @@ To kickstart the audit process, the IT manager took several key steps, including
 
 I was entrusted with the responsibility of reviewing the IT manager's scope, objectives, and risk assessment, followed by the execution of an internal audit to complete a thorough controls assessment and compliance checklist.
 
-To move ahead, I collaborated with the IT manager to considere and establish the elements of the internal audit. It included establishing the scope and goals of the audit, conducting a risk assessment of the organization's assets, completing a controls assessment, assessing compliance, and communicating results to stakeholders.
+To move ahead, I collaborated with the IT manager to consider and establish the elements of the internal audit. It included establishing the scope and goals of the audit, conducting a risk assessment of the organization's assets, completing a controls assessment, assessing compliance, and communicating results to stakeholders.
 
 **Audit Scope**: 
 The IT audit assessed current user permissions, implemented controls, procedures and protocols, and compliance level.
