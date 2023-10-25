@@ -13,4 +13,6 @@ To conclude this task i did the following:
 
 3. I proposed a security recommendation by explaining my apprach and proposing a remediation strategy.
 
+4. **NOTE**: The NIST SP 800-30 Rev.1 was used to guide the risk analysis of the information system.
+
 
