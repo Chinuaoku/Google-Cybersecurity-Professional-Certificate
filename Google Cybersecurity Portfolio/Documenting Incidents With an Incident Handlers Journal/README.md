@@ -6,4 +6,5 @@ The attackers managed to infiltrate the clinic's network by executing targeted p
 
 Upon gaining access, the attackers deployed their ransomware, encrypting critical files. As a result, the clinic was unable to access vital patient data, causing significant disruptions to their business operations. Subsequently, the clinic had no choice but to shut down their computer systems and contact various organizations to report the incident and seek technical assistance.
 
+I have recoreded other incidents in the Completed Incident Handlers Journal attached to this directory.
 
