@@ -19,4 +19,4 @@ In order to complete this task i did the following;
 
 6. After removing the IP addresses from the ip_address variable, i completed the algorithm by updating the file with the revised list. To do this, i first converted the ip_addresses list back into a string using the .join() method. I applied .join() to the string "\n" in order to separate the elements in the file by placing them on a new line. Then, i used another with statement and the .write() method to write over the file assigned to the import_file variable.
 
-7. Finf the report of this file attached in the directory.
+7. Find the report of this task attached in this directory.
