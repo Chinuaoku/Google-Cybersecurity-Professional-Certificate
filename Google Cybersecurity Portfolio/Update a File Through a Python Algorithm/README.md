@@ -18,3 +18,5 @@ In order to complete this task i did the following;
 5. In the body of your iterative statement, i added code that will remove all the IP addresses from the allow list that are also on the remove list. First, i created a conditional that evaluates if the loop variable element is part of the ip_addresses list. Then, within that conditional, i applied the .remove() method to the ip_addresses list and removed the IP addresses identified in the loop variable element.
 
 6. After removing the IP addresses from the ip_address variable, i completed the algorithm by updating the file with the revised list. To do this, i first converted the ip_addresses list back into a string using the .join() method. I applied .join() to the string "\n" in order to separate the elements in the file by placing them on a new line. Then, i used another with statement and the .write() method to write over the file assigned to the import_file variable.
+
+7. Finf the report of this file attached in the directory.
